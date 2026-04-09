@@ -573,12 +573,7 @@ Free to use, modify, and distribute. Attribution appreciated but not required.
 
 | Version | Highlights |
 |:-------:|------------|
-| **6.1.0** | GUI overhaul: 3-column layout with centered Output Log. Async event-based output reading (ConcurrentQueue) eliminates all GUI freezing. Pause/Resume/Stop controls with Win32 SuspendThread/ResumeThread. Resource management (CPU affinity, BelowNormal priority, GC tuning). Exe path resolution fix for compiled builds. |
-| **6.0.0** | 7-browser support. WinForms GUI launcher with retro CRT styling. Retro TUI mode (`-RetroUI`). Sound effects (`-Sound`). App MRU cleanup. GUI executables. |
-| **5.0.0** | 42 modules. Privacy category added. CCleaner/BleachBit/FCleaner feature parity. OfficeCleanup, CloudStorageCleanup, AdobeCleanup, JavaCleanup, ChkdskFragments, IISLogCleanup, FreeSpaceWiper, RestorePointAnalysis. |
-| **4.0.0** | 32 modules. Progress bars. Prebuilt executables (x64/x86/AnyCPU). DevToolCaches, AppCacheCleanup, DotNetCleanup, LargeFileFinder, DuplicateFileFinder, ScheduledTaskReview. |
-| **3.0.0** | 20 modules. Categorized menu. Pre-scan summary table. PrefetchCleanup, DeliveryOptimization, WindowsOldCleanup, CrashDumps, ShaderCache, SystemHealthCheck, NetworkAnalysis. |
-| **2.0.0** | Initial release. 8 modules, dry-run, full audit logging. |
+| **0.1** | Initial release.full audit logging. |
 
 ---
 
