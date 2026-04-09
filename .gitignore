@@ -1,0 +1,5 @@
+# Log files (keep directories, ignore contents)
+logs/*.log
+logs/*.csv
+build/logs/*.log
+build/logs/*.csv
